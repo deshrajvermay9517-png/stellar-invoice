@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789908725013,
+      "tag": "0000_nifty_sharon_carter",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789916956375,
+      "tag": "0001_invoice_foundation",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789968501555,
+      "tag": "0002_payment_foundation",
+      "breakpoints": true
+    }
+  ]
+}
